@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=407
+
+This syntax file provides syntax definitions for buffers created by the cvscommand.vim plugin (version 1.10 and above).
